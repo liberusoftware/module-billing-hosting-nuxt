@@ -1,0 +1,15 @@
+{
+  "repository": "module-billing-hosting-nuxt",
+  "capabilityKey": "liberusoftware/module-billing-hosting",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-billing-hosting-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/billing/nextjs/hosting.md",
+  "presentationPlan": "projects/billing/nuxt/hosting.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "billing"
+  ]
+}
